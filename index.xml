@@ -1,2 +1,93 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GDM La Merced Corella</title><link>https://gdmlamerced.github.io/gdm/</link><description>Recent content on GDM La Merced Corella</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Tue, 16 Mar 2021 17:13:44 +0100</lastBuildDate><atom:link href="https://gdmlamerced.github.io/gdm/index.xml" rel="self" type="application/rss+xml"/><item><title>Nueva</title><link>https://gdmlamerced.github.io/gdm/posts/nueva-web/</link><pubDate>Tue, 16 Mar 2021 17:13:44 +0100</pubDate><guid>https://gdmlamerced.github.io/gdm/posts/nueva-web/</guid><description>Bienvenido a la nueva Web del GDM La Merced de Corella</description></item><item><title>Contacta con el Club</title><link>https://gdmlamerced.github.io/gdm/contact/</link><pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate><guid>https://gdmlamerced.github.io/gdm/contact/</guid><description>.</description></item><item><title>Directos del Club</title><link>https://gdmlamerced.github.io/gdm/lives/</link><pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate><guid>https://gdmlamerced.github.io/gdm/lives/</guid><description>Los directos del club los puedes ver nuestos canales:</description></item><item><title>Sobre el Club</title><link>https://gdmlamerced.github.io/gdm/about/</link><pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate><guid>https://gdmlamerced.github.io/gdm/about/</guid><description>En Corella la temporada 1997-98 se reanudó el balonmano como deporte municipal patrocinado por el Ayuntamiento tras unos cuantos años de parón en los que “Tim”, junto con otros pioneros, entrenaron y compitieron varias temporadas en la ciudad.
-Ante el crecimiento del número de equipos y la imposibilidad del Ayuntamiento de hacerse cargo económicamente del club por temas legales, al final de la temporada 2001-02, se propuso la creación de un Club Deportivo.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GDM La Merced Corella</title>
+    <link>https://gdmlamerced.github.io/</link>
+    <description>Recent content on GDM La Merced Corella</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 29 Mar 2021 20:25:29 +0200</lastBuildDate><atom:link href="https://gdmlamerced.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrevista Gdm B 27-03-2021 vs BetI-Onak</title>
+      <link>https://gdmlamerced.github.io/posts/entrevista-gdm-b-29-03/</link>
+      <pubDate>Mon, 29 Mar 2021 20:25:29 +0200</pubDate>
+      
+      <guid>https://gdmlamerced.github.io/posts/entrevista-gdm-b-29-03/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Entrevista Gdm B 20-03-2021</title>
+      <link>https://gdmlamerced.github.io/posts/entrevista-gdm-b-21-03/</link>
+      <pubDate>Mon, 22 Mar 2021 20:25:29 +0200</pubDate>
+      
+      <guid>https://gdmlamerced.github.io/posts/entrevista-gdm-b-21-03/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Entrevista Gdm A 20-03-2021</title>
+      <link>https://gdmlamerced.github.io/posts/entrevista-gdm-a-21-03/</link>
+      <pubDate>Mon, 22 Mar 2021 20:06:04 +0200</pubDate>
+      
+      <guid>https://gdmlamerced.github.io/posts/entrevista-gdm-a-21-03/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Nueva Web</title>
+      <link>https://gdmlamerced.github.io/posts/nueva-web/</link>
+      <pubDate>Tue, 16 Mar 2021 17:13:44 +0100</pubDate>
+      
+      <guid>https://gdmlamerced.github.io/posts/nueva-web/</guid>
+      <description>Bienvenido a la nueva Web del GDM La Merced de Corella</description>
+    </item>
+    
+    <item>
+      <title>Contacta con el Club</title>
+      <link>https://gdmlamerced.github.io/contact/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gdmlamerced.github.io/contact/</guid>
+      <description>Tu nombre:Tu email:Tu mensajeSend</description>
+    </item>
+    
+    <item>
+      <title>Directos del Club</title>
+      <link>https://gdmlamerced.github.io/lives/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gdmlamerced.github.io/lives/</guid>
+      <description>Los directos del club los puedes ver nuestos canales: new Twitch.Embed(&#34;twitch-embed&#34;, {width: 854,height: 480,channel: gdmlamerced,layout: &#34;video&#34;});</description>
+    </item>
+    
+    <item>
+      <title>Gracias por tu mensaje</title>
+      <link>https://gdmlamerced.github.io/thanks/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gdmlamerced.github.io/thanks/</guid>
+      <description>Gracias por tu mensaje, te contestaremos lo antes posible</description>
+    </item>
+    
+    <item>
+      <title>Sobre el Club</title>
+      <link>https://gdmlamerced.github.io/about/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://gdmlamerced.github.io/about/</guid>
+      <description>En Corella la temporada 1997-98 se reanudó el balonmano como deporte municipal patrocinado por el Ayuntamiento tras unos cuantos años de parón en los que “Tim”, junto con otros pioneros, entrenaron y compitieron varias temporadas en la ciudad.
+Ante el crecimiento del número de equipos y la imposibilidad del Ayuntamiento de hacerse cargo económicamente del club por temas legales, al final de la temporada 2001-02, se propuso la creación de un Club Deportivo.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gdmlamerced.github.io/teams/cadete-a/natalia-arigita/_index-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gdmlamerced.github.io/teams/cadete-a/natalia-arigita/_index-copy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

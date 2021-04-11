@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on GDM La Merced Corella</title><link>https://gdmlamerced.github.io/gdm/posts/</link><description>Recent content in Posts on GDM La Merced Corella</description><generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Tue, 16 Mar 2021 17:13:44 +0100</lastBuildDate><atom:link href="https://gdmlamerced.github.io/gdm/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Nueva</title><link>https://gdmlamerced.github.io/gdm/posts/nueva-web/</link><pubDate>Tue, 16 Mar 2021 17:13:44 +0100</pubDate><guid>https://gdmlamerced.github.io/gdm/posts/nueva-web/</guid><description>Bienvenido a la nueva Web del GDM La Merced de Corella</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on GDM La Merced Corella</title>
+    <link>https://gdmlamerced.github.io/posts/</link>
+    <description>Recent content in Posts on GDM La Merced Corella</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 29 Mar 2021 20:25:29 +0200</lastBuildDate><atom:link href="https://gdmlamerced.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrevista Gdm B 27-03-2021 vs BetI-Onak</title>
+      <link>https://gdmlamerced.github.io/posts/entrevista-gdm-b-29-03/</link>
+      <pubDate>Mon, 29 Mar 2021 20:25:29 +0200</pubDate>
+      
+      <guid>https://gdmlamerced.github.io/posts/entrevista-gdm-b-29-03/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Entrevista Gdm B 20-03-2021</title>
+      <link>https://gdmlamerced.github.io/posts/entrevista-gdm-b-21-03/</link>
+      <pubDate>Mon, 22 Mar 2021 20:25:29 +0200</pubDate>
+      
+      <guid>https://gdmlamerced.github.io/posts/entrevista-gdm-b-21-03/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Entrevista Gdm A 20-03-2021</title>
+      <link>https://gdmlamerced.github.io/posts/entrevista-gdm-a-21-03/</link>
+      <pubDate>Mon, 22 Mar 2021 20:06:04 +0200</pubDate>
+      
+      <guid>https://gdmlamerced.github.io/posts/entrevista-gdm-a-21-03/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Nueva Web</title>
+      <link>https://gdmlamerced.github.io/posts/nueva-web/</link>
+      <pubDate>Tue, 16 Mar 2021 17:13:44 +0100</pubDate>
+      
+      <guid>https://gdmlamerced.github.io/posts/nueva-web/</guid>
+      <description>Bienvenido a la nueva Web del GDM La Merced de Corella</description>
+    </item>
+    
+  </channel>
+</rss>
